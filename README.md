@@ -1,1 +1,1 @@
-# Teacer
+# Teacher
